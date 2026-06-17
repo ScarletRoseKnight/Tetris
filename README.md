@@ -4,6 +4,8 @@
 
 This repository contains a visually enhanced Tetris game built with Python and Pygame. It features a modern UI, smooth animations, rounded blocks, a gradient background, and a clean rendering pipeline, making it an excellent reference project for game development fundamentals.
 
+<img width="762" height="672" alt="image" src="https://github.com/user-attachments/assets/9a970137-2b10-48b3-9030-522765b99665" />
+
 ---
 ## 1. 📂 Directory Structure
 ```
@@ -98,5 +100,5 @@ Built with 💙 by Samuel, with assistance from Microsoft Copilot & Google Gemin
 
 A fun, educational project designed to learn clean UI layout architecture and complete step-by-step game loop implementation paradigms in Python.
 
-<img width="762" height="672" alt="Tetris-Screenshot" src="https://github.com/user-attachments/assets/26420cbd-5600-45d7-9558-b9f4e52eddbe" />
+
 
