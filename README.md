@@ -97,3 +97,6 @@ def rotate(shape):
 Built with 💙 by Samuel, with assistance from Microsoft Copilot & Google Gemini.
 
 A fun, educational project designed to learn clean UI layout architecture and complete step-by-step game loop implementation paradigms in Python.
+
+<img width="762" height="672" alt="Tetris-Screenshot" src="https://github.com/user-attachments/assets/26420cbd-5600-45d7-9558-b9f4e52eddbe" />
+
