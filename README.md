@@ -5,12 +5,12 @@
 This repository contains a visually enhanced Tetris game built with Python and Pygame. It features a modern UI, smooth animations, rounded blocks, a gradient background, and a clean rendering pipeline, making it an excellent reference project for game development fundamentals.
 
 ---
-
+```
 ## 1. 📂 Directory Structure
 
 ├── tetris.py        # Main game source code (Clean & Modern Edition)
 └── README.md        # Project documentation
-
+```
 ---
 
 ## 2. 💎 Game Features
@@ -91,21 +91,9 @@ Gradient Background -> Placed Blocks -> Falling Piece -> Grid Lines -> Score Int
 
 def rotate(shape):
     return [list(row) for row in zip(*shape[::-1])]
-
 ---
 
-## 🔧 7. Future Improvements
-
-- [ ] Immersive sound effects & theme music loops.
-- [ ] Hold Piece storage mechanic slot.
-- [ ] Next Piece Preview window block widget.
-- [ ] Animated line clearing flash effects.
-- [ ] Local persistence high-score file saving system (JSON / txt).
-- [ ] Custom visual themes (Neon Cyberpunk, Retro Arcade, Glassmorphism, Minimalist Dark).
-
----
-
-## 👤 8. Author
+## 👤 7. Author
 
 Built with 💙 by Samuel, with assistance from Microsoft Copilot & Google Gemini.
 
