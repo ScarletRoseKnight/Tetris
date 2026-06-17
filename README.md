@@ -5,9 +5,8 @@
 This repository contains a visually enhanced Tetris game built with Python and Pygame. It features a modern UI, smooth animations, rounded blocks, a gradient background, and a clean rendering pipeline, making it an excellent reference project for game development fundamentals.
 
 ---
-```
 ## 1. 📂 Directory Structure
-
+```
 ├── tetris.py        # Main game source code (Clean & Modern Edition)
 └── README.md        # Project documentation
 ```
