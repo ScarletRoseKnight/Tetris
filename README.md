@@ -96,7 +96,7 @@ def rotate(shape):
 
 ## 👤 7. Author
 
-Built with 💙 by Samuel, with assistance from Microsoft Copilot & Google Gemini.
+Built by Samuel, with assistance from Microsoft Copilot & Google Gemini.
 
 A fun, educational project designed to learn clean UI layout architecture and complete step-by-step game loop implementation paradigms in Python.
 
