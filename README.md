@@ -88,8 +88,10 @@ Gradient Background -> Placed Blocks -> Falling Piece -> Grid Lines -> Score Int
 ### 📊 Data Structures
 * Grid Space: Managed using a fixed-dimensional 2D list array populated by RGB tuple matrices (R, G, B).
 * Tetromino Templates: Defined inside standard binary nested list matrices representing block layouts.
-* Rotation Logic: Handled smoothly by passing matrices through a combined zip-transposition and reversal algorithm: def rotate(shape):
+* Rotation Logic: Handled smoothly by passing matrices through a combined zip-transposition and reversal algorithm:
+  ``` def rotate(shape):
     return [list(row) for row in zip(*shape[::-1])]
+  ```
 ---
 
 ## 👤 7. Author
